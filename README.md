@@ -30,8 +30,7 @@ During this journey, we can refer to various resources to enhance our understand
 
 - [Book: "Digital Design and Computer Architecture" by David Money Harris and Sarah L. Harris](https://example.com/digital_design_book)
 - [Online Course: "Introduction to Verilog HDL" by your-favorite-course-provider](https://example.com/intro_to_verilog_course)
-- Other professionals referred : [ShashankSirohiya](https://github.com/ShashankSirohiya/100DaysOfRtl)
-                                 [Kanna Akshay](https://github.com/kanna-akshay/100-DAYS-OF-RTL)
+- Other professionals referred : [ShashankSirohiya](https://github.com/ShashankSirohiya/100DaysOfRtl) | [Kanna Akshay](https://github.com/kanna-akshay/100-DAYS-OF-RTL)
 ## Contribution
 
 Contributions to this repository are more than welcome! If you have suggestions, bug fixes, or want to add more RTL designs to the progress section, feel free to open an issue or submit a pull request.
