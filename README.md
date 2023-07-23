@@ -2,6 +2,8 @@
 
 Welcome to the "100 Days of RTL Design Journey" repository! This is a personal challenge aimed at improving our RTL (Register Transfer Level) design skills and becoming proficient in digital hardware design. Throughout this journey, we will dedicate 100 consecutive days to learn, practice, and create RTL designs for various digital circuits.
 
+I am Chandra Prakash, a VLSI enthusiast and this is my journey of 100 days of RTL(Verilog, System verilog, UVM). I mostly use Questasim software for the simulation of RTL Codes and the Synthesis is performed by using Xilinx Vivado Design Suite.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -18,11 +20,11 @@ RTL Design is a crucial aspect of digital hardware design, where we describe the
 
 Track our progress through the 100 days in this section. Below, you can find a table or list that will be regularly updated with the day number, design description, and links to each day's RTL design folder.
 
-| Day | Design Description | Link |
-|----|--------------------|------|
-| 1  |                    | [Day 1](day1/) |
-| 2                       | [Day 2](day2/) |
-| 3  |                    | ...  |
+| Day | Design Description  | Link |
+|----|----------------------|------|
+| 1  |Adders and Subtractors| [Day 1](day1/) |
+| 2  |                      | [Day 2](day2/) |
+| 3  |                      | ...  |
 
 ## Resources
 
