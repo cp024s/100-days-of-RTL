@@ -25,6 +25,19 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 1  |Adders and Subtractors| [Day 1](day1/) |
 | 2  |                      | [Day 2](day2/) |
 | 3  |                      | ...  |
+| 4  |                      | ...  |
+| 5  |                      | ...  |
+| 6  |                      | ...  |
+| 7  |                      | ...  |
+| 8  |                      | ...  |
+| 9  |                      | ...  |
+| 10 |                      | ...  |
+| 11 |                      | ...  |
+| 12 |                      | ...  |
+| 13 |                      | ...  |
+| 14 |                      | ...  |
+| 15 |                      | ...  |
+
 
 ## Resources
 
