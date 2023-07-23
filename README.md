@@ -28,8 +28,8 @@ Track our progress through the 100 days in this section. Below, you can find a t
 
 During this journey, we can refer to various resources to enhance our understanding and improve our RTL design skills. Here are some recommended resources:
 
-- Book: ["Digital Design with an introduction to Verilog HDL"] by Morris mano and Michael D. Clietti(https://www.portcity.edu.bd/files/636444791235373856_Digitallogicdesign.pdf)
-- Online Course: [" System Design Through Verilog"] by Prof. Shaik rafi Ahamed(https://onlinecourses.nptel.ac.in/noc23_ee88/course)
+- Book: ["Digital Design with an introduction to Verilog HDL"](https://www.portcity.edu.bd/files/636444791235373856_Digitallogicdesign.pdf) by Morris mano and Michael D. Clietti 
+- Online Course: [" System Design Through Verilog"](https://onlinecourses.nptel.ac.in/noc23_ee88/course) by Prof. Shaik rafi Ahamed 
 - Other professionals referred : [ShashankSirohiya](https://github.com/ShashankSirohiya/100DaysOfRtl) | [Kanna Akshay](https://github.com/kanna-akshay/100-DAYS-OF-RTL)
 ## Contribution
 
