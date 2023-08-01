@@ -24,7 +24,7 @@ Track our progress through the 100 days in this section. Below, you can find a t
 
 | Day | Design Description  | Link |
 |----|----------------------|------|
-| 1  |Adders and Subtractors| [Day 1](day1/) |
+| 1  |Half Adder            | [Day 1](Day-1/) |
 | 2  |                      | [Day 2](day2/) |
 | 3  |                      | ...  |
 | 4  |                      | ...  |
