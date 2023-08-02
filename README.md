@@ -25,7 +25,7 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | Day | Design Description  | Link |
 |----|----------------------|------|
 | 1  |Half Adder            | [Day 1](Day-1/) |
-| 2  |                      | [Day 2](Day2/) |
+| 2  |Full Adder            | [Day 2](Day-2/) |
 | 3  |                      | ...  |
 | 4  |                      | ...  |
 | 5  |                      | ...  |
