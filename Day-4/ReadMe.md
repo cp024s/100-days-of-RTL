@@ -1,8 +1,8 @@
-# Overview: <br/>
+# Overview <br/>
 This repository contains the design and implementation of a 3-bit Arithmetic Logic Unit (ALU). An ALU is a fundamental component in digital circuits that performs various arithmetic and logical operations on binary data. The ALU presented here is capable of executing the following operations:
 <br/> <br/>
 
-# Operations :<br/>
+# Operations <br/>
 Addition<br/>
 Subtraction<br/>
 Multiplication<br/>
