@@ -29,7 +29,7 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 3  |Half Subtractor          | [Day 3](Day-3/) |
 | 4  |3 bit ALU                | [Day 4](Day-4/) |
 | 5  |Binary to Gray converter | [Day 5](Day-5/) |
-| 6  |                      | [Day 6](Day-6/) |
+| 6  |Multiplier               | [Day 6](Day-6/) |
 | 7  |                      | [Day 7](Day-7/) |
 | 8  |                      | [Day 8](Day-8/) |
 | 9  |                      | [Day 9](Day-9/) |
