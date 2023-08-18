@@ -14,3 +14,12 @@ Then, we create the 4x1 multiplexer module (mux_4x1_using_2x1) which uses two in
 The intermediate_select signal is used to pass the select signal from the main module to the intermediate muxes (mux0 and mux1).
 
 Please note that you need to instantiate the mux_4x1_using_2x1 module in your Verilog design hierarchy and connect it to the desired signals and components.
+
+# 8x1 MUX using 4x1 MUX
+In this code, the mux_8x1 module takes an 8-bit input bus data_inputs and a 3-bit input bus select as its inputs. It uses two 4x1 multiplexers, mux1 and mux2, to implement the 8x1 multiplexer functionality.
+
+The mux1 takes the lower 4 bits of data_inputs and the lower 2 bits of select to select one of the four inputs. Its output mux1_output is then connected to the data inputs of mux2.
+
+The mux2 takes the upper 4 bits of data_inputs and the lower 2 bits of select to select one of the four inputs. If the most significant bit of select (select[2]) is 0, it uses the output of mux1 as its output. Otherwise, it directly selects the upper 4 bits of data_inputs.
+
+This way, the mux_8x1 module behaves as an 8x1 multiplexer using two levels of 4x1 multiplexers.
