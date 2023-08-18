@@ -30,8 +30,8 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 4  |3 bit ALU                | [Day 4](Day-4/) |
 | 5  |Binary to Gray converter | [Day 5](Day-5/) |
 | 6  |Multiplier               | [Day 6](Day-6/) |
-| 7  |                      | [Day 7](Day-7/) |
-| 8  |                      | [Day 8](Day-8/) |
+| 7  |BCD to Excess 3          | [Day 7](Day-7/) |
+| 8  |MUX Implementations      | [Day 8](Day-8/) |
 | 9  |                      | [Day 9](Day-9/) |
 | 10 |                      | [Day 10](Day-10/) |
 | 11 |                      | [Day 11](Day-11/) |
