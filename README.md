@@ -33,7 +33,7 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 6  |Multiplier               | [Day 6](Day-6/) |
 | 7  |BCD to Excess 3          | [Day 7](Day-7/) |
 | 8  |MUX Implementations      | [Day 8](Day-8/) |
-| 9  |                      | [Day 9](Day-9/) |
+| 9  |DEMUX Implementations    | [Day 9](Day-9/) |
 | 10 |                      | [Day 10](Day-10/) |
 | 11 |                      | [Day 11](Day-11/) |
 | 12 |                      | ...  |
