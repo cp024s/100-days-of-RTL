@@ -1,3 +1,4 @@
+## 1 to 4 DEMUX
 In this Verilog code:
 
 enable is an input that controls whether the demux is enabled or not. When enable is 1, the demux is active; otherwise, all outputs are set to 0.
