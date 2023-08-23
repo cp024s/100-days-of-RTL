@@ -34,7 +34,7 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 7  |BCD to Excess 3          | [Day 7](Day-7/) |
 | 8  |MUX Implementations      | [Day 8](Day-8/) |
 | 9  |DEMUX Implementations    | [Day 9](Day-9/) |
-| 10 |                      | [Day 10](Day-10/) |
+| 10 |Carry LookAhead Adder    | [Day 10](Day-10/) |
 | 11 |                      | [Day 11](Day-11/) |
 | 12 |                      | ...  |
 | 13 |                      | ...  |
