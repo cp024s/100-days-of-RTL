@@ -40,6 +40,7 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 13 |JK Flip Flop             | ...  |
 | 14 |Master Slave Flip Flop   | ...  |
 | 15 |Latching Circuits        | ...  |
+| 16 |Encoders & Decoders      | ...  |
 
 ### System Verilog
 | Day      | Design Description | Link     |
