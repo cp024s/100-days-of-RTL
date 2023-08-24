@@ -1,6 +1,6 @@
 # D FLIP FLOP
 
-- ***D*** is the data input.
+- ***D*** is the data input. <br>
 - ***clk*** is the clock input, which triggers the flip-flop on the rising edge. <br>
 - ***rst*** is the reset input, which asynchronously sets the output to 0 (1'b0) when asserted. <br>
 - ***q*** is the output of the flip-flop, which stores the value of d on the rising edge of the clock if the reset is not active. <br>
