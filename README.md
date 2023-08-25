@@ -36,11 +36,11 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 9  |DEMUX Implementations    | [Day 9](Day-9/) |
 | 10 |Carry LookAhead Adder    | [Day 10](Day-10/) |
 | 11 |D- Flip Flop             | [Day 11](Day-11/) |
-| 12 |SR Flip Flop             | ...  |
-| 13 |JK Flip Flop             | ...  |
-| 14 |Master Slave Flip Flop   | ...  |
-| 15 |Latching Circuits        | ...  |
-| 16 |Encoders & Decoders      | ...  |
+| 12 |SR Flip Flop             | [Day 12](Day-12/) |
+| 13 |JK Flip Flop             | [Day 13](Day-13/) |
+| 14 |Master Slave Flip Flop   | [Day 14](Day-14/) |
+| 15 |Latching Circuits        | [Day 15](Day-15/) |
+| 16 |Encoders & Decoders      | [Day 16](Day-16/) |
 
 ### System Verilog
 | Day      | Design Description | Link     |
