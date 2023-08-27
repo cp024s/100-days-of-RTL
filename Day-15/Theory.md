@@ -37,10 +37,3 @@ An SR latch, also known as a Set-Reset latch or S-R flip-flop, is a fundamental 
 
 In practice, when implementing SR latches in digital circuits, it's essential to ensure proper timing and input signal synchronization to prevent unexpected behavior. Additionally, SR latches are often used as components to create more advanced flip-flops with synchronous behavior, such as D flip-flops and JK flip-flops.
 
-### Verilog explanation
-
-This Verilog module represents an SR latch. 
-
-The S input (Set) is used to set the latch to the Q=1 state, and the R input (Reset) is used to reset the latch to the Q=0 state. 
-
-The Q and Qn outputs represent the complementary states of the latch.
