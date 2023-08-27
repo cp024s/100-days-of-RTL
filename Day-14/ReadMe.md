@@ -45,7 +45,7 @@ In summary, a Master-Slave Flip-Flop is a vital component in digital logic desig
 
 - The slave flip-flop also has an always block and is synchronized to the same clock and reset signals. However, it doesn't have any additional logic for data manipulation in this example. In practice, you might connect the output of the master flip-flop to the input of the slave flip-flop, creating a master-slave structure.
 
-## In this testbench:
+## In this testbench
 
 - We define parameters for the clock period and half period to control the clock signal's timing.
 - We declare signals for clk (clock), rst (reset), d (data input), and q (output).
