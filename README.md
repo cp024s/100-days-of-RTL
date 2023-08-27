@@ -39,7 +39,7 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 12 |SR Flip Flop             | [Day 12](Day-12/) |
 | 13 |JK Flip Flop             | [Day 13](Day-13/) |
 | 14 |Master Slave Flip Flop   | [Day 14](Day-14/) |
-| 15 |SR Circuits              | [Day 15](Day-15/) |
+| 15 |SR latch                 | [Day 15](Day-15/) |
 | 16 |Encoders & Decoders      | [Day 16](Day-16/) |
 
 ### System Verilog
