@@ -38,9 +38,20 @@ A Master-Slave Flip-Flop, often referred to as a "Master-Slave D Flip-Flop," is 
 
 In summary, a Master-Slave Flip-Flop is a vital component in digital logic design for storing and manipulating binary data. Its ability to synchronize data with a clock signal, detect edges, and initialize to known states makes it a versatile building block in digital circuits.
 
-## Verilog Code
+## In this Verilog Code
 - There are two always blocks representing the master and slave flip-flops.
 
 - The master flip-flop updates its output q on the rising edge of the clock signal (posedge clk) or when the reset (rst) signal is asserted.
 
 - The slave flip-flop also has an always block and is synchronized to the same clock and reset signals. However, it doesn't have any additional logic for data manipulation in this example. In practice, you might connect the output of the master flip-flop to the input of the slave flip-flop, creating a master-slave structure.
+
+## In this testbench:
+
+- We define parameters for the clock period and half period to control the clock signal's timing.
+- We declare signals for clk (clock), rst (reset), d (data input), and q (output).
+- The master_slave_flip_flop module (the unit under test) is instantiated with connections to these signals.
+- We generate the clock signal with a 50% duty cycle using an always block.
+- In the initial block, we set initial values for the signals and apply test inputs (reset and data) at specific times.
+-The $monitor command is used to display the signal values at each time step.
+- The simulation is set to finish after 200 time units.
+- You can customize the testbench further to test different scenarios and inputs for your Master-Slave Flip-Flop design.
