@@ -1,4 +1,4 @@
-**Encoder Description:**
+## Encoder Description:
 
 An encoder is a digital circuit or device that performs the operation of encoding, which is the process of converting a set of input signals into a coded output representation. Encoders are commonly used in digital systems for various purposes, including data compression, data transmission, and control applications. Here's a detailed description of an encoder:
 
@@ -18,8 +18,9 @@ An encoder is a digital circuit or device that performs the operation of encodin
    - **Gray Code Encoder:** Converts binary input into Gray code, where only one bit changes between consecutive values.
 
 6. **Decoding:** In some cases, encoders work in conjunction with decoders. A decoder reverses the encoding process, converting the encoded output back into its original form.
+<br>
 
-**Decoder Description:**
+ ## Decoder Description:
 
 A decoder is a digital circuit or device that performs the operation of decoding, which is the process of converting a coded input representation into a set of output signals. Decoders are commonly used in digital systems for tasks such as data retrieval, control signal generation, and address decoding in memory devices. Here's a detailed description of a decoder:
 
