@@ -1,5 +1,9 @@
 # 100 Days of RTL Design Journey
-**probable journey of RTL coding with Chandra Prakash**
+
+<div align= center> 
+<h3> probable journey of RTL coding with Chandra Prakash </h3>
+</div>
+<br>
 
 Welcome to the "100 Days of RTL Design Journey" repository! This is a personal challenge aimed at improving our RTL (Register Transfer Level) design skills and becoming proficient in digital hardware design. Throughout this journey, we will dedicate 100 consecutive days to learn, practice, and create RTL designs for various digital circuits.
 
