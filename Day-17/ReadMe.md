@@ -1,6 +1,6 @@
 # Counter
 
-1. **Module Declaration:** The code begins by declaring a Verilog module named "SimpleCounter." This module has three ports:
+1. **Module Declaration:** The code begins by declaring a Verilog module named `SimpleCounter` This module has three ports:
 
     `clk`: This is the clock input signal. <br>
     `reset`: This is the reset input signal. <br>
@@ -20,14 +20,17 @@
 
 # Counter- TB
 
-The testbench begins with a declaration of signals: `clk` for the clock input, `reset` for the reset input, and `count` to monitor the counter's output.
+1. The testbench begins with a declaration of signals:  <br>
+            `clk` for the clock input. <br>
+            `reset` for the reset input. <br>
+            `count` to monitor the counter's output. <br>
 
-The `SimpleCounter` module is instantiated within the testbench, connecting its inputs and outputs to the corresponding signals declared in the testbench.
+2. The `SimpleCounter` module is instantiated within the testbench, connecting its inputs and outputs to the corresponding signals declared in the testbench.
 
-A clock signal is generated using an `always` block. In this case, the clock is toggled every 5 time units using `#5`.
+3. A clock signal is generated using an `always` block. In this case, the clock is toggled every 5 time units using `#5`.
 
-The testbench initializes signals by setting `clk` to 0 and asserting the `reset` signal for a brief period to initialize the counter to zero.
+4. The testbench initializes signals by setting `clk` to 0 and asserting the `reset` signal for a brief period to initialize the counter to zero.
 
-Inside the `initial` block, the testbench monitors the `count` signal and displays its value using `$display` at each time step.
+5. Inside the `initial` block, the testbench monitors the `count` signal and displays its value using `$display` at each time step.
 
-The simulation is run for 100 time units using `$finish`. You can adjust this value to control the simulation duration.
+6. The simulation is run for 100 time units using `$finish`. You can adjust this value to control the simulation duration.
