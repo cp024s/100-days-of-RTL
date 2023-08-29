@@ -22,7 +22,7 @@ RTL Design is a crucial aspect of digital hardware design, where we describe the
 
 Track our progress through the 100 days in this section. Below, you can find a table or list that will be regularly updated with the day number, design description, and links to each day's RTL design folder.
 
-### Verilog
+### Verilog Implementations
 | Day | Design Description     | Link |
 |----|-------------------------|------|
 | 1  |Half Adder               | [Day 1](Day-1/) |
