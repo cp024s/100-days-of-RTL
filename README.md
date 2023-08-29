@@ -59,13 +59,7 @@ Track our progress through the 100 days in this section. Below, you can find a t
 
 
 ### System Verilog
-| Day      | Design Description | Link     |
-|----------|--------------------|----------|
-|          |  YET TO IMPLEMENT  |          |
-|          |                    |          |
-|          |                    |          |
-|          |                    |          |
-|          |                    |          |
+
 
 
 ## Resources
