@@ -15,3 +15,19 @@
 5. **Counting Logic:** When the clock signal transitions to the positive edge (indicated by `posedge clk`), and the reset signal is not asserted, the counter count is incremented by 1. This simple logic increments the count value each time the clock rises.
 
 6. **Assign Statement:** Finally, there's an `assign` statement that continuously assigns the value of `count` to the output count. This makes the current count value available at the module's output for external use.
+
+<hr>
+
+# Counter- TB
+
+The testbench begins with a declaration of signals: `clk` for the clock input, `reset` for the reset input, and `count` to monitor the counter's output.
+
+The `SimpleCounter` module is instantiated within the testbench, connecting its inputs and outputs to the corresponding signals declared in the testbench.
+
+A clock signal is generated using an `always` block. In this case, the clock is toggled every 5 time units using `#5`.
+
+The testbench initializes signals by setting `clk` to 0 and asserting the `reset` signal for a brief period to initialize the counter to zero.
+
+Inside the `initial` block, the testbench monitors the `count` signal and displays its value using `$display` at each time step.
+
+The simulation is run for 100 time units using `$finish`. You can adjust this value to control the simulation duration.
