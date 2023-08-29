@@ -18,7 +18,7 @@
 
 <hr>
 
-# Counter- TB
+# Counter - TB
 
 1. The testbench begins with a declaration of signals:  <br>
             `clk` for the clock input. <br>
