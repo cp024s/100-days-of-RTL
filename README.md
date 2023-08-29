@@ -46,9 +46,9 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 15 |SR latch                 | [Day 15](Day-15/) |
 | 16 |Encoders & Decoders      | [Day 16](Day-16/) |
 | 17 |Counter                  | [Day 17](Day-17/) |
-| 18 |                         | [Day 18](Day-18/) |
-| 19 |                         | [Day 18](Day-19/) |
-| 20 |                         | [Day 20](Day-20/) |
+| 18 |Ring Counter             | [Day 18](Day-18/) |
+| 19 |Johnson Counter          | [Day 18](Day-19/) |
+| 20 |Up/Down Counter          | [Day 20](Day-20/) |
 | 21 |                         | [Day 21](Day-21/) |
 | 22 |                         | [Day 22](Day-22/) |
 | 23 |                         | [Day 23](Day-23/) |
