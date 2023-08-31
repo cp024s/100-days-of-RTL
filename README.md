@@ -47,7 +47,7 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 16 |Encoders & Decoders      | [Day 16](Day-16/) |
 | 17 |Counter                  | [Day 17](Day-17/) |
 | 18 |Johnson Counter          | [Day 18](Day-18/) |
-| 19 |Ring Counter             | [Day 18](Day-19/) |
+| 19 |Ring Counter             | [Day 19](Day-19/) |
 | 20 |Up/Down Counter          | [Day 20](Day-20/) |
 | 21 |                         | [Day 21](Day-21/) |
 | 22 |                         | [Day 22](Day-22/) |
