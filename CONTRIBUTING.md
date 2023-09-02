@@ -46,6 +46,6 @@ The project maintainers may terminate your right to contribute to the Repository
 
 ## 7. Contact
 
-If you have any questions or concerns regarding this CUA, please contact the project maintainer at [Contact Email](chandraprakashs2003@gmail.com).
+If you have any questions or concerns regarding this CUA, please contact the project maintainer at chandraprakashs2003@gmail.com
 
 By making contributions to this Repository, you acknowledge that you have read, understood, and agreed to this Contributor User Agreement.
