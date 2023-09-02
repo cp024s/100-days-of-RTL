@@ -61,9 +61,18 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 30 |                         | [Day 30](Day-30/) |
 | 31 |                         | [Day 31](Day-31/) |
 
-
 ### System Verilog
 
+| Day |  Design Description                        |      Day          |
+|-----|--------------------------------------------|-------------------|
+| 51 |TB to print "Hello World"                    | [Day 51](Day-51/) |
+| 52 |TB to verify logic datatypes in SV           | [Day 52](Day-52/) |
+| 53 |TB to verify unpacked Struct dataType in SV  | [Day 53](Day-53/) |
+| 54 |TB to verify packed Struct dataType in SV    | [Day 54](Day-54/) |
+| 55 |TB to verify Array types in SV               | [Day 55](Day-55/) |
+| 56 |TB to verify functions in SV                 | [Day 55](Day-55/) |
+| 57 |TB to verify Tasks                           | [Day 55](Day-55/) |
+| 58 |TB interface to verify ALU                   | [Day 55](Day-55/) |
 
 
 ## Resources
