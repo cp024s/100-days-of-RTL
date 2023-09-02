@@ -93,7 +93,7 @@ Contributions to this repository are more than welcome! If you have suggestions,
 
 This project is licensed under the Apache license 2.0 - see the [LICENSE](LICENSE) file for details.
 
-### Usage
+## Usage
 
 - Users are free to use, modify, and distribute this software in accordance with the terms of the license.
 - Contributors must agree to the project's Contributor License Agreement (CLA) before submitting pull requests. Please refer to the [Contributing user agreement](CONTRIBUTING.md) file for more details.
