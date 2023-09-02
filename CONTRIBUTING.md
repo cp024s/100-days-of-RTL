@@ -34,7 +34,7 @@ You acknowledge that your contributions will be made publicly available, and you
 
 ## 4. Dispute Resolution
 
-Any disputes arising under or in connection with this CUA shall be resolved in accordance with the dispute resolution mechanisms defined in the project's [CONTRIBUTING.md](CONTRIBUTING.md) file.
+Any disputes arising under or in connection with this CUA shall be resolved in accordance with the dispute resolution mechanisms defined in the project's [Contributing user agreement](CONTRIBUTING.md) file.
 
 ## 5. Modification
 
