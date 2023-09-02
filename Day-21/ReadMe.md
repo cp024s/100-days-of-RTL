@@ -1,6 +1,6 @@
 A PISO (Parallel-In, Serial-Out) shift register is a type of shift register in which data is loaded in parallel into the register and then shifted out serially. Here's an example of a PISO shift register implemented in Verilog:
 
-In this Verilog code:
+## In this Verilog code:
 
 - `clk` is the clock signal that controls the shift register's operation.
 - `reset` is an optional asynchronous reset signal that resets the shift register and the shift counter to their initial states when asserted.
@@ -12,17 +12,15 @@ The `always` block is triggered on the positive edge of the clock or the positiv
 
 You can instantiate this module in your top-level Verilog design and connect it to your clock, reset, parallel data, shift enable, and serial output signals as needed.
 
-To create a testbench for the PISO (Parallel-In, Serial-Out) shift register Verilog module, you can use Verilog's `initial` blocks to define test cases and apply stimulus to the module inputs while observing its outputs. Below is an example testbench for the PISO shift register:
+<hr>
 
-In this testbench:
+## In this testbench:
 
 - The `piso_shift_register` module is instantiated, and its inputs and outputs are connected to the testbench signals.
 
 - A clock signal (`clk`) is generated, toggling every 5 time units.
 
 - An initial block is used to apply stimulus and monitor the results. In this example, it includes the following steps:
-  1. A reset pulse is applied to the PISO shift register.
-  2. Data is loaded into the shift register using parallel input and `shift_enable`.
-  3. The serial output is monitored and displayed using `$display`.
-
-You can extend this testbench to include additional test cases or modify it according to your specific testing requirements. Make sure to compile both the PISO shift register module and the testbench, and then simulate them using a Verilog simulator like ModelSim or XSIM.
+   - A reset pulse is applied to the PISO shift register.
+   - Data is loaded into the shift register using parallel input and `shift_enable`.
+   - The serial output is monitored and displayed using `$display`.
