@@ -91,7 +91,7 @@ Contributions to this repository are more than welcome! If you have suggestions,
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the `Apache License 2.0` - see the [LICENSE](LICENSE) file for details.
 
 ## Usage
 
