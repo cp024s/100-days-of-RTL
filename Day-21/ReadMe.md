@@ -11,3 +11,18 @@ In this Verilog code:
 The `always` block is triggered on the positive edge of the clock or the positive edge of the reset signal. When the reset signal is asserted, the shift register and shift counter are both reset to their initial states. When `shift_enable` is asserted, the parallel data is loaded into the shift register, and the shift counter is incremented. When `shift_enable` is deasserted, the data is shifted to the right.
 
 You can instantiate this module in your top-level Verilog design and connect it to your clock, reset, parallel data, shift enable, and serial output signals as needed.
+
+To create a testbench for the PISO (Parallel-In, Serial-Out) shift register Verilog module, you can use Verilog's `initial` blocks to define test cases and apply stimulus to the module inputs while observing its outputs. Below is an example testbench for the PISO shift register:
+
+In this testbench:
+
+- The `piso_shift_register` module is instantiated, and its inputs and outputs are connected to the testbench signals.
+
+- A clock signal (`clk`) is generated, toggling every 5 time units.
+
+- An initial block is used to apply stimulus and monitor the results. In this example, it includes the following steps:
+  1. A reset pulse is applied to the PISO shift register.
+  2. Data is loaded into the shift register using parallel input and `shift_enable`.
+  3. The serial output is monitored and displayed using `$display`.
+
+You can extend this testbench to include additional test cases or modify it according to your specific testing requirements. Make sure to compile both the PISO shift register module and the testbench, and then simulate them using a Verilog simulator like ModelSim or XSIM.
