@@ -101,7 +101,7 @@ Creating a license README for your GitHub repository is important to inform user
 
 ## License
 
-This project is licensed under the [Apache license 2.0] - see the (LICENSE) file for details.
+This project is licensed under the [Apache license 2.0] - see the [LICENSE](LICENSE) file for details.
 
 
 
