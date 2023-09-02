@@ -1,0 +1,7 @@
+N but BCD adder
+sequence detector using moore model
+Carry skip adder
+carry select adder
+MUX using tristate buffer
+frequency divider
+Priority encoder
