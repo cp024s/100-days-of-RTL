@@ -45,15 +45,15 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 14 |Master Slave Flip Flop   | [Day 14](Day-14/) |
 | 15 |SR latch                 | [Day 15](Day-15/) |
 | 16 |Encoders & Decoders      | [Day 16](Day-16/) |
-| 17 |Counter                  | [Day 17](Day-17/) |
+| 17 |Counters                 | [Day 17](Day-17/) |
 | 18 |Johnson Counter          | [Day 18](Day-18/) |
 | 19 |Ring Counter             | [Day 19](Day-19/) |
 | 20 |Up/Down Counter          | [Day 20](Day-20/) |
-| 21 |                         | [Day 21](Day-21/) |
-| 22 |                         | [Day 22](Day-22/) |
-| 23 |                         | [Day 23](Day-23/) |
-| 24 |                         | [Day 34](Day-24/) |
-| 25 |                         | [Day 25](Day-25/) |
+| 21 |PISO Shift Register      | [Day 21](Day-21/) |
+| 22 |SIPO Shift Register      | [Day 22](Day-22/) |
+| 23 |Universal Shift Register | [Day 23](Day-23/) |
+| 24 |Random-Access Memory     | [Day 34](Day-24/) |
+| 25 |Read-Only Memory         | [Day 25](Day-25/) |
 | 26 |                         | [Day 26](Day-26/) |
 | 27 |                         | [Day 27](Day-27/) |
 | 28 |                         | [Day 28](Day-28/) |
