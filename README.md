@@ -89,27 +89,11 @@ During this journey, we can refer to various resources to enhance our understand
 
 Contributions to this repository are more than welcome! If you have suggestions, bug fixes, or want to add more RTL designs to the progress section, feel free to open an issue or submit a pull request.
 
-
-
-Creating a license README for your GitHub repository is important to inform users and contributors about the licensing terms of your project. Below is a template you can use as a starting point for your license README:
-
----
-
-# Project Name
-
-![Project Logo](project_logo.png)
-
 ## License
 
-This project is licensed under the [Apache license 2.0] - see the [LICENSE](LICENSE) file for details.
-
-
+This project is licensed under the Apache license 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ### Usage
 
 - Users are free to use, modify, and distribute this software in accordance with the terms of the license.
 - Contributors must agree to the project's Contributor License Agreement (CLA) before submitting pull requests. Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
-
-### Reporting Issues
-
-Encourage users and contributors to report any issues or violations of the license. Provide contact information or a link to your issue tracker.
