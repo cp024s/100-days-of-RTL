@@ -15,7 +15,6 @@ A universal shift register is a digital circuit that can perform both parallel l
 
 You can use this module in your larger Verilog design to create a universal shift register that suits your specific requirements. Make sure to instantiate this module and connect the inputs and outputs appropriately within your design.
 
-To test the Verilog code for the universal shift register, you can create a testbench. A testbench simulates the behavior of your module and checks if it's working correctly. Here's a basic testbench for the universal shift register:
 
 ## In this testbench:
 
@@ -27,5 +26,3 @@ To test the Verilog code for the universal shift register, you can create a test
   - Perform a left shift.
   - Perform a right shift.
   - Observe the output (`q`) using the `$display` statement.
-
-To simulate and test your design, you would need a Verilog simulator such as ModelSim or XSIM (Xilinx Simulator). Compile both your module and the testbench, and then run the simulation. The testbench will check if the universal shift register behaves as expected under different inputs and operations.
