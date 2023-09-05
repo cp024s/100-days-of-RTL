@@ -10,8 +10,16 @@ The memory is implemented as an array of 4-bit registers (`memory`) with four lo
 
 ## In this Test bench:
 
-- The RAM_4x4 module is instantiated, and its inputs and outputs are connected.
+- The `RAM_4x4` module is instantiated, and its inputs and outputs are connected.
 - A clock signal is generated with a 10-unit time period.
-- The testbench initializes the address, write_enable, and data_input signals.
+- The testbench initializes the `address`, `write_enable`, and `data_input` signals.
 - It first writes data (1101) to the RAM at address 01 and then reads the data from the same address.
 - Finally, it checks whether the data output matches the expected value and prints a pass or fail message accordingly.
+
+## 8x4 RAM using 4x4 RAM - In this code:
+
+- The `RAM_8x4` module has a 3-bit address input, which is used to address four 4x4 RAM modules.
+- Two 2-bit addresses, `addr1` and `ddr2`, are derived from the 3-bit address to select the appropriate RAM modules.
+- Four instances of the 4x4 RAM module (`RAM1` and `RAM2`) are instantiated to store and retrieve data.
+- The outputs from the 4x4 RAM modules are multiplexed based on the 3-bit address to generate the 8x4 RAM's output data.
+- You can use this `RAM_8x4` module in your Verilog design by connecting the address, write enable, data input, and data output signals as needed. Adjust the multiplexing logic inside the always block if you have different requirements for addressing or data organization.
