@@ -7,4 +7,12 @@
 
 The `always` block uses a `case` statement to determine the shift direction and amount and calculates the `shifted_data` accordingly. Left shifting is performed using the `<<` operator, and right shifting is done using the `>>` operator.
 
-You can instantiate this module in your Verilog design and connect it to other components as needed. Make sure to verify and simulate the behavior of this module using a Verilog simulator to ensure it meets your specific requirements.
+## In this testbench:
+
+- We declare the necessary signals for connecting to the shifter module: `data_in`, `shift_amount`, `shift_direction`, and `data_out`.
+
+- We instantiate the `ParallelShifter` module and connect its ports to the testbench signals.
+
+- Inside the `initial` block, we create test cases by changing the values of `data_in`, `shift_amount`, and `shift_direction`. We wait for some time using `#10` to allow the shifter to perform the shift operation, and then we compare the `data_out` with the expected output values.
+
+- You can add more test cases by following the same pattern, and the testbench will display whether each test case passes or fails.
