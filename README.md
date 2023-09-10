@@ -53,8 +53,8 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 22 |SIPO Shift Register| [Day 22](Day-22/) |
 | 23 |Universal Shift Register | [Day 23](Day-23/) |
 | 24 |Random-Access Memory     | [Day 34](Day-24/) |
-| 25 |Read-Only Memory         | [Day 25](Day-25/) |
-| 26 |                         | [Day 26](Day-26/) |
+| 25 |Paralell Shifter         | [Day 25](Day-25/) |
+| 26 |Two port RAM             | [Day 26](Day-26/) |
 | 27 |                         | [Day 27](Day-27/) |
 | 28 |                         | [Day 28](Day-28/) |
 | 29 |                         | [Day 29](Day-29/) |
