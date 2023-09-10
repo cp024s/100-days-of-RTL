@@ -10,3 +10,12 @@ When a write operation is enabled for a specific port, the data is written to th
 
 ## In this Test bench
 
+1. We instantiate the `two_port_ram` module and generate a clock signal (`clk`) with a period of 10 time units.
+
+2. We apply initial values to the inputs, including a reset (`rst`) signal.
+
+3. We perform write operations by changing the address, data inputs, and write enables for both ports.
+
+4. We then read data from the memory by setting the write enables to 0 and monitoring the data outputs.
+
+5. Finally, we use `$finish` to end the simulation and display the results at each time step using `$display`.
