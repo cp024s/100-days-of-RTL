@@ -29,7 +29,7 @@ Track our progress through the 100 days in this section. Below, you can find a t
 ### Verilog Implementations
 | Day | Design Description          | Link              |      
 |----|------------------------------|-------------------|
-| 1  | Implementation of Half Adder | [Day 1](Day-1/)   |
+| 1  |Verilog Implementation of Half Adder | [Day 1](Day-1/)   |
 | 2  |Full Adder               | [Day 2](Day-2/)   |
 | 3  |Half Subtractor          | [Day 3](Day-3/)   |
 | 4  |3 bit ALU                | [Day 4](Day-4/)   |
