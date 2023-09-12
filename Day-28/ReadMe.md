@@ -1,4 +1,4 @@
-
+## FIFO Queue
 - `module fifo(...)`: This line defines a Verilog module named `fifo` with input and output ports.
 
 - `reg [7:0] memory [0:3];`: This declares a 4-word memory array. Each word is 8 bits wide, and there are four words in total. This is where data is stored.
