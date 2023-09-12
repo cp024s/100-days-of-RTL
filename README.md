@@ -56,8 +56,8 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 25 |Paralell Shifter                     | [Day 25](Day-25/) |
 | 26 |Implementation of Two port RAM       | [Day 26](Day-26/) |
 | 27 |Serial Adder                         | [Day 27](Day-27/) |
-| 28 |                                     | [Day 28](Day-28/) |
-| 29 |                                     | [Day 29](Day-29/) |
+| 28 |FIFO queue Implementation            | [Day 28](Day-28/) |
+| 29 |LIFO queue Implementation            | [Day 29](Day-29/) |
 | 30 |                                     | [Day 30](Day-30/) |
 | 31 |                                     | [Day 31](Day-31/) |
 
