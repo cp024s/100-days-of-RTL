@@ -27,9 +27,9 @@ RTL Design is a crucial aspect of digital hardware design, where we describe the
 Track our progress through the 100 days in this section. Below, you can find a table or list that will be regularly updated with the day number, design description, and links to each day's RTL design folder.
 
 ### Verilog Implementations
-| **Day** | **Design Description**         | **Link**              |      
-|----|------------------------------|-------------------|
-| 1  |Verilog Implementation of Half Adder | [Day 1](Day-1/)   |
+|Day | Design Description                  |   Link            |      
+|----|-------------------------------------|-------------------|
+| 1  |Half Adder                           | [Day 1](Day-1/)   |
 | 2  |Full Adder                           | [Day 2](Day-2/)   |
 | 3  |Half Subtractor                      | [Day 3](Day-3/)   |
 | 4  |3 bit ALU                            | [Day 4](Day-4/)   |
@@ -54,7 +54,7 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 23 |Universal Shift Register             | [Day 23](Day-23/) |
 | 24 |Random-Access Memory                 | [Day 34](Day-24/) |
 | 25 |Paralell Shifter                     | [Day 25](Day-25/) |
-| 26 |Implementation of Two port RAM       | [Day 26](Day-26/) |
+| 26 |Two port RAM                         | [Day 26](Day-26/) |
 | 27 |Serial Adder                         | [Day 27](Day-27/) |
 | 28 |FIFO queue Implementation            | [Day 28](Day-28/) |
 | 29 |LIFO queue Implementation            | [Day 29](Day-29/) |
