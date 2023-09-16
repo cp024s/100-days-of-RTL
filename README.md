@@ -81,20 +81,6 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 49 |                                     | [Day 49](Day-49/) |
 | 50 |                                     | [Day 50](Day-50/) |
 
-<br>
-
-### System Verilog Implementations
-| Day |  Design Description                        |    Link           |
-|-----|--------------------------------------------|-------------------|
-| 51 |                    | [Day 51](Day-51/) |
-| 52 |           | [Day 52](Day-52/) |
-| 53 |  | [Day 53](Day-53/) |
-| 54 |    | [Day 54](Day-54/) |
-| 55 |              | [Day 55](Day-55/) |
-| 56 |                 | [Day 55](Day-56/) |
-| 57 |TB to verify Tasks                           | [Day 55](Day-57/) |
-| 58 |                  | [Day 55](Day-58/) |
-
 
 ## Resources
 
