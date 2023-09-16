@@ -27,29 +27,29 @@ RTL Design is a crucial aspect of digital hardware design, where we describe the
 Track our progress through the 100 days in this section. Below, you can find a table or list that will be regularly updated with the day number, design description, and links to each day's RTL design folder.
 
 ### Verilog Implementations
-|Day | Design Description                  |   Link            |      
-|----|-------------------------------------|-------------------|
-| 1  |Half Adder                           | [Day 1](Day-1/)   |
-| 2  |Full Adder                           | [Day 2](Day-2/)   |
-| 3  |Half Subtractor                      | [Day 3](Day-3/)   |
-| 4  |3 bit ALU                            | [Day 4](Day-4/)   |
-| 5  |Binary to Gray converter             | [Day 5](Day-5/)   |
-| 6  |Multiplier                           | [Day 6](Day-6/)   |
-| 7  |BCD to Excess 3                      | [Day 7](Day-7/)   | 
-| 8  |MUX Implementations                  | [Day 8](Day-8/)   |
-| 9  |DEMUX Implementations                | [Day 9](Day-9/)   |
-| 10 |Carry LookAhead Adder                | [Day 10](Day-10/) |
-| 11 |D- Flip Flop                         | [Day 11](Day-11/) |
-| 12 |SR Flip Flop                         | [Day 12](Day-12/) |
-| 13 |JK Flip Flop                         | [Day 13](Day-13/) |
-| 14 |Master Slave Flip Flop               | [Day 14](Day-14/) |
-| 15 |SR latch                             | [Day 15](Day-15/) |
-| 16 |Encoders & Decoders                  | [Day 16](Day-16/) |
-| 17 |Counters                             | [Day 17](Day-17/) |
-| 18 |Johnson Counter                      | [Day 18](Day-18/) |
-| 19 |Ring Counter                         | [Day 19](Day-19/) |
-| 20 |Up/Down Counter                      | [Day 20](Day-20/) |
-| 21 |PISO Shift Register                  | [Day 21](Day-21/) |
+|Day | Design Description                  |   Link            |-------|Day | Design Description            | Link |
+|----|-------------------------------------|-------------------|-------|----|-------------------------------|------|
+| 1  |Half Adder                           | [Day 1](Day-1/)   |     | 51 |                               |      |
+| 2  |Full Adder                           | [Day 2](Day-2/)   |     | 52 |                               |      |
+| 3  |Half Subtractor                      | [Day 3](Day-3/)   |     | 53 |                               |      |
+| 4  |3 bit ALU                            | [Day 4](Day-4/)   |     | 54 |                               |      |
+| 5  |Binary to Gray converter             | [Day 5](Day-5/)   |     | 55 |                               |      |
+| 6  |Multiplier                           | [Day 6](Day-6/)   |     | 56 |                               |      |
+| 7  |BCD to Excess 3                      | [Day 7](Day-7/)   |     | 57 |                               |      |
+| 8  |MUX Implementations                  | [Day 8](Day-8/)   |     | 58 |                               |      |
+| 9  |DEMUX Implementations                | [Day 9](Day-9/)   |     | 59 |                               |      |
+| 10 |Carry LookAhead Adder                | [Day 10](Day-10/) |     | 60 |                               |      |
+| 11 |D- Flip Flop                         | [Day 11](Day-11/) |     | 61 |                               |      |
+| 12 |SR Flip Flop                         | [Day 12](Day-12/) |     | 62 |                               |      |
+| 13 |JK Flip Flop                         | [Day 13](Day-13/) |     | 63 |                               |      |
+| 14 |Master Slave Flip Flop               | [Day 14](Day-14/) |     | 64 |                               |      |
+| 15 |SR latch                             | [Day 15](Day-15/) |     | 65 |                               |      |
+| 16 |Encoders & Decoders                  | [Day 16](Day-16/) |     | 66 |                               |      |
+| 17 |Counters                             | [Day 17](Day-17/) |     | 67 |                               |      |
+| 18 |Johnson Counter                      | [Day 18](Day-18/) |     | 68 |                               |      |
+| 19 |Ring Counter                         | [Day 19](Day-19/) |     | 69 |                               |      |
+| 20 |Up/Down Counter                      | [Day 20](Day-20/) |     | 70 |                               |      |
+| 21 |PISO Shift Register                  | [Day 21](Day-21/) |     | 71 |                               |      |
 | 22 |SIPO Shift Register                  | [Day 22](Day-22/) |
 | 23 |Universal Shift Register             | [Day 23](Day-23/) |
 | 24 |Random-Access Memory                 | [Day 34](Day-24/) |
@@ -71,6 +71,14 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 40 |                                     | [Day 40](Day-40/) |
 | 41 |                                     | [Day 41](Day-41/) |
 | 42 |                                     | [Day 42](Day-42/) |
+| 43 |                                     | [Day 43](Day-43/) |
+| 44 |                                     | [Day 44](Day-44/) |
+| 45 |                                     | [Day 45](Day-45/) |
+| 46 |                                     | [Day 46](Day-46/) |
+| 47 |                                     | [Day 47](Day-47/) |
+| 48 |                                     | [Day 48](Day-48/) |
+| 49 |                                     | [Day 49](Day-49/) |
+| 50 |                                     | [Day 50](Day-50/) |
 
 <br>
 
