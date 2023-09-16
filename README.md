@@ -59,7 +59,7 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 28 |FIFO queue Implementation            | [Day 28](Day-28/) |
 | 29 |LIFO queue Implementation            | [Day 29](Day-29/) |
 | 30 |Priority Encoder                     | [Day 30](Day-30/) |
-| 31 |                                     | [Day 31](Day-31/) |
+| 31 |32 bit Ripple Carry Adder            | [Day 31](Day-31/) |
 
 
 <br>
