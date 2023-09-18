@@ -1,15 +1,39 @@
-N but BCD adder
-sequence detector using moore model
+N bit BCD adder
 Carry skip adder
 carry select adder
-MUX using tristate buffer
 frequency divider
-
 Priority encoder
 BCD to seven segment decoder
-
-
+---------------------------------------------//
 SPI interface
 I2C interface
 UART interface
 ALU implementation
+---------------------------------------------//
+Day:45_"15_15Rom"
+Day:46_"Asynchronous_Rom"
+Day:47_"Rom_Using_Case"
+Day:48_"Rom_Alu_Decoder"
+Day:49_"Synchronous_Ram"
+Day:50_"16_16Ram"
+Day:51_"Asynchronous_Ram"
+Day:52_"Ram_8191k"
+Day:53_"Parameterised_Ram"
+Day:54_"Pipeline_shift"
+Day:55_"Delays"
+Day:56_"Clk_phase"
+Day:57_"Frequency_Divider_by_Oddnumber"
+Day:58_"Frequency_Divider_by_Even_number"
+--------------------------------------------//
+Day:59_"Priority_resolver"
+Day:60_"Psuedo_Random_Sequence"
+Day:61_"Parameterised_Cube"
+Day:62_"Password(Digital Safe locker)"
+Day:63_"Prime_Number"
+Day:64_"Elevator"
+Day:65_"Vending_Machine"
+Day:66_"Rail_Track"
+Day:67_"Running_Led"
+Day:68_"Palindrome_of_a_number"
+Day:69_"Data_Encryption"
+Day:70_"Data_Decryption"   
