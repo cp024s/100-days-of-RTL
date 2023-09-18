@@ -4,6 +4,9 @@ carry select adder
 frequency divider
 Priority encoder
 BCD to seven segment decoder
+Even_odd_BCD_counter
+Booths Multiplier
+
 ---------------------------------------------//
 SPI interface
 I2C interface
@@ -55,6 +58,8 @@ Day:82_"Package in SV"
 Day:83_"Semaphore"
 Day:84_"Functional Coverage | Implicit bin"
 Day:85_"Functional Coverage | Explicit bin"
+
+
 --------------------UVM------------------------//
 Day:86_"UVM_MACROS"
 Day:87_"Working with Verbosity level and ID"
@@ -68,13 +73,13 @@ Day:94_"UVM_COMPONENT_Build_phase"
 Day:95_"UVM_COMPONENT_Build_and_end_of_elaboration_phase"
 Day:96_"SV_TB_DFF"
 Day:97_"SV_TB_FIFO"
+
 --------------------------------------------//
 Day:98_"UVM_TB_ADDER_Combi"
 Day:99_"UVM_TB_ADDER_Sequi"
 Day:100_"UVM_APB_TB"
---------------------------------------------// --------------------------------------------//
-Upcoming_"AXI""AHB""SPI""URT""I2C"
---------------------------------------------// --------------------------------------------//
 
-Day 27:Even_odd_BCD_counter
-Day 28:Booths Multiplier
+--------------------------------------------//
+Upcoming_"AXI""AHB""SPI""URT""I2C"
+--------------------------------------------//
+
