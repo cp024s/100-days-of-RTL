@@ -61,7 +61,7 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 29 |LIFO queue Implementation            | [Day 29](Day-29/) |
 | 30 |Priority Encoder                     | [Day 30](Day-30/) |
 | 31 |32 bit Ripple Carry Adder            | [Day 31](Day-31/) |
-| 32 |                                     | [Day 32](Day-32/) |
+| 32 |Sequence detector using Moore model  | [Day 32](Day-32/) |
 | 33 |                                     | [Day 33](Day-33/) |
 | 34 |                                     | [Day 34](Day-34/) |
 | 35 |                                     | [Day 35](Day-35/) |
