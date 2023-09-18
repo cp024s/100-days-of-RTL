@@ -80,6 +80,10 @@ Day:99_"UVM_TB_ADDER_Sequi"
 Day:100_"UVM_APB_TB"
 
 --------------------------------------------//
-Upcoming_"AXI""AHB""SPI""URT""I2C"
---------------------------------------------//
+Protocol Implementations :
 
+AXI
+AHB
+SPI
+UART
+I2C
