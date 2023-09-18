@@ -37,3 +37,41 @@ Day:67_"Running_Led"
 Day:68_"Palindrome_of_a_number"
 Day:69_"Data_Encryption"
 Day:70_"Data_Decryption"   
+
+
+------------------SV--------------------------//
+Day:71_"Randomization"
+Day:72_"Pre - Post Randomization"
+Day:73_"Inline Constraints"
+Day:74_"Weighted Constraints"
+Day:75_"Inside Operator"
+Day:76_"Oops Inheritance
+Day:77_"Oops Encapsulation"
+Day:78_"Oops Polymorphism"
+Day:79_"Mailbox"
+Day:80_"Fixed & Dynamic Array"
+Day:81_"Enum Data type"
+Day:82_"Package in SV"
+Day:83_"Semaphore"
+Day:84_"Functional Coverage | Implicit bin"
+Day:85_"Functional Coverage | Explicit bin"
+--------------------UVM------------------------//
+Day:86_"UVM_MACROS"
+Day:87_"Working with Verbosity level and ID"
+Day:88_"UVM_FIELD_MACROS_int"
+Day:89_"UVM_FIELD_MACROS_enum"
+Day:90_"UVM_FIELD_MACROS_arrays"
+Day:91_"UVM_FIELD_MACROS_copy and clone"
+Day:92_"UVM_FIELD_MACROS_shallow and deep copy"
+Day:93_"UVM_FACTORY_OVERRIDE"
+Day:94_"UVM_COMPONENT_Build_phase"
+Day:95_"UVM_COMPONENT_Build_and_end_of_elaboration_phase"
+Day:96_"SV_TB_DFF"
+Day:97_"SV_TB_FIFO"
+--------------------------------------------//
+Day:98_"UVM_TB_ADDER_Combi"
+Day:99_"UVM_TB_ADDER_Sequi"
+Day:100_"UVM_APB_TB"
+--------------------------------------------// --------------------------------------------//
+Upcoming_"AXI""AHB""SPI""URT""I2C"
+--------------------------------------------// --------------------------------------------//
