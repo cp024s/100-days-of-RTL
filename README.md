@@ -64,7 +64,7 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 32 |Sequence detector using Moore model  | [Day 32](Day-32/) |
 | 33 |Priority Resolver                    | [Day 33](Day-33/) |
 | 34 |Odd Frequency Generator              | [Day 34](Day-34/) |
-| 35 |                                     | [Day 35](Day-35/) |
+| 35 |Even Frequency generator             | [Day 35](Day-35/) |
 | 36 |                                     | [Day 36](Day-36/) |
 | 37 |                                     | [Day 37](Day-37/) |
 | 38 |                                     | [Day 38](Day-38/) |
