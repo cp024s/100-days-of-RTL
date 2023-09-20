@@ -25,8 +25,6 @@ Day:53_"Parameterised_Ram"
 Day:54_"Pipeline_shift"
 Day:55_"Delays"
 Day:56_"Clk_phase"
-Day:57_"Frequency_Divider_by_Oddnumber"
-Day:58_"Frequency_Divider_by_Even_number"
 --------------------------------------------//
 Day:59_"Priority_resolver"
 Day:60_"Psuedo_Random_Sequence"
