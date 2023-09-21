@@ -65,7 +65,7 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 33 |Priority Resolver                    | [Day 33](Day-33/) |
 | 34 |Odd Frequency Generator              | [Day 34](Day-34/) |
 | 35 |Even Frequency generator             | [Day 35](Day-35/) |
-| 36 |                                     | [Day 36](Day-36/) |
+| 36 |Booth's Multiplier                   | [Day 36](Day-36/) |
 | 37 |                                     | [Day 37](Day-37/) |
 | 38 |                                     | [Day 38](Day-38/) |
 | 39 |                                     | [Day 39](Day-39/) |
