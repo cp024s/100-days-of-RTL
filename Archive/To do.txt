@@ -1,11 +1,8 @@
 N bit BCD adder
 Carry skip adder
 carry select adder
-frequency divider
-Priority encoder
-BCD to seven segment decoder
 Even_odd_BCD_counter
-Booths Multiplier
+
 
 ---------------------------------------------//
 SPI interface
