@@ -2,8 +2,6 @@ N bit BCD adder
 Carry skip adder
 carry select adder
 Even_odd_BCD_counter
-
-
 ---------------------------------------------//
 SPI interface
 I2C interface
@@ -23,8 +21,6 @@ Day:54_"Pipeline_shift"
 Day:55_"Delays"
 Day:56_"Clk_phase"
 --------------------------------------------//
-Day:59_"Priority_resolver"
-Day:60_"Psuedo_Random_Sequence"
 Day:61_"Parameterised_Cube"
 Day:62_"Password(Digital Safe locker)"
 Day:63_"Prime_Number"
