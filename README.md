@@ -31,9 +31,9 @@ Track our progress through the 100 days in this section. Below, you can find a t
 |Day | Design Description                  |   Link            |   -   |Day | Design Description                             | Link              |
 |----|-------------------------------------|-------------------|-------|----|------------------------------------------------|-------------------|
 | 1  |Half Adder                           | [Day 1](Day-1/)   |       | 51 |  TB to print "Hello World"                     | [Day 51](Day-51/) |
-| 2  |Full Adder                           | [Day 2](Day-2/)   |       | 52 |  TB to verify logic datatypes in SV            |      |
-| 3  |Half Subtractor                      | [Day 3](Day-3/)   |       | 53 |  TB to verify unpacked Struct dataType in SV   |      |
-| 4  |3 bit ALU                            | [Day 4](Day-4/)   |       | 54 |  TB to verify packed Struct dataType in SV     |      |
+| 2  |Full Adder                           | [Day 2](Day-2/)   |       | 52 |  TB to verify logic datatypes           |      |
+| 3  |Half Subtractor                      | [Day 3](Day-3/)   |       | 53 |  TB to verify unpacked Struct dataType  |      |
+| 4  |3 bit ALU                            | [Day 4](Day-4/)   |       | 54 |  TB to verify packed Struct dataType    |      |
 | 5  |Binary to Gray converter             | [Day 5](Day-5/)   |       | 55 |  TB to verify Array types in SV                |      |
 | 6  |Multiplier                           | [Day 6](Day-6/)   |       | 56 |  TB to verify functions in SV                  |      |
 | 7  |BCD to Excess 3                      | [Day 7](Day-7/)   |       | 57 |  TB interface to verify ALU                    |      |
