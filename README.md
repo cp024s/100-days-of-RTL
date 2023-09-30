@@ -68,8 +68,8 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 36 |Booth's Multiplier                   | [Day 36](Day-36/) |
 | 37 |Pipeline Shiter                      | [Day 37](Day-37/) |
 | 38 |Pseudo Random Frequency Generator    | [Day 38](Day-38/) |
-| 39 |                                     | [Day 39](Day-39/) |
-| 40 |                                     | [Day 40](Day-40/) |
+| 39 |Prime Number Finder                  | [Day 39](Day-39/) |
+| 40 |Palindrome Checker                   | [Day 40](Day-40/) |
 | 41 |                                     | [Day 41](Day-41/) |
 | 42 |                                     | [Day 42](Day-42/) |
 | 43 |                                     | [Day 43](Day-43/) |
