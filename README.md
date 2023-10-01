@@ -31,12 +31,12 @@ Track our progress through the 100 days in this section. Below, you can find a t
 |Day | Design Description                  |   Link            |   -   |Day | Design Description                     | Link              |
 |----|-------------------------------------|-------------------|-------|----|----------------------------------------|-------------------|
 | 1  |Half Adder                           | [Day 1](Day-1/)   |       | 51 |  TB to print "Hello World"             | [Day 51](Day-51/) |
-| 2  |Full Adder                           | [Day 2](Day-2/)   |       | 52 |  TB to verify logic datatypes           |      |
-| 3  |Half Subtractor                      | [Day 3](Day-3/)   |       | 53 |  TB to verify unpacked Struct dataType  |      |
-| 4  |3 bit ALU                            | [Day 4](Day-4/)   |       | 54 |  TB to verify packed Struct dataType    |      |
-| 5  |Binary to Gray converter             | [Day 5](Day-5/)   |       | 55 |  TB to verify Array types in SV                |      |
-| 6  |Multiplier                           | [Day 6](Day-6/)   |       | 56 |  TB to verify functions in SV                  |      |
-| 7  |BCD to Excess 3                      | [Day 7](Day-7/)   |       | 57 |  TB interface to verify ALU                    |      |
+| 2  |Full Adder                           | [Day 2](Day-2/)   |       | 52 |  TB to verify logic datatypes          |      |
+| 3  |Half Subtractor                      | [Day 3](Day-3/)   |       | 53 |  TB to verify unpacked Struct dataType |      |
+| 4  |3 bit ALU                            | [Day 4](Day-4/)   |       | 54 |  TB to verify packed Struct dataType   |      |
+| 5  |Binary to Gray converter             | [Day 5](Day-5/)   |       | 55 |  TB to verify Array types in SV        |      |
+| 6  |Multiplier                           | [Day 6](Day-6/)   |       | 56 |  TB to verify functions in SV          |      |
+| 7  |BCD to Excess 3                      | [Day 7](Day-7/)   |       | 57 |  TB interface to verify ALU            |      |
 | 8  |MUX Implementations                  | [Day 8](Day-8/)   |       | 58 |                               |      |
 | 9  |DEMUX Implementations                | [Day 9](Day-9/)   |       | 59 |                               |      |
 | 10 |Carry LookAhead Adder                | [Day 10](Day-10/) |       | 60 |                               |      |
@@ -61,7 +61,7 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 29 |LIFO queue Implementation            | [Day 29](Day-29/) |
 | 30 |Priority Encoder                     | [Day 30](Day-30/) |
 | 31 |32 bit Ripple Carry Adder            | [Day 31](Day-31/) |
-| 32 |Sequence detector using Moore model  | [Day 32](Day-32/) |
+| 32 |Sequence detector - Moore Model      | [Day 32](Day-32/) |
 | 33 |Priority Resolver                    | [Day 33](Day-33/) |
 | 34 |Odd Frequency Generator              | [Day 34](Day-34/) |
 | 35 |Even Frequency generator             | [Day 35](Day-35/) |
@@ -70,15 +70,15 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 38 |Pseudo Random Frequency Generator    | [Day 38](Day-38/) |
 | 39 |Prime Number Finder                  | [Day 39](Day-39/) |
 | 40 |Palindrome Checker                   | [Day 40](Day-40/) |
-| 41 |                                     | [Day 41](Day-41/) |
-| 42 |                                     | [Day 42](Day-42/) |
-| 43 |                                     | [Day 43](Day-43/) |
-| 44 |                                     | [Day 44](Day-44/) |
-| 45 |                                     | [Day 45](Day-45/) |
+| 41 |32 Bit carry LookAhead Adder         | [Day 41](Day-41/) |
+| 42 |Butterfly Unit - DSP                 | [Day 42](Day-42/) |
+| 43 |ROM design                           | [Day 43](Day-43/) |
+| 44 |Fibonacci Generator                  | [Day 44](Day-44/) |
+| 45 |Sequence detector using FSM          | [Day 45](Day-45/) |
 | 46 |                                     | [Day 46](Day-46/) |
 | 47 |                                     | [Day 47](Day-47/) |
 | 48 |                                     | [Day 48](Day-48/) |
-| 49 |CRC                                     | [Day 49](Day-49/) |
+| 49 |Cyclic redundancy code               | [Day 49](Day-49/) |
 | 50 |Hamming code generation              | [Day 50](Day-50/) |
 
 
