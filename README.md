@@ -78,8 +78,8 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 46 |                                     | [Day 46](Day-46/) |
 | 47 |                                     | [Day 47](Day-47/) |
 | 48 |                                     | [Day 48](Day-48/) |
-| 49 |                                     | [Day 49](Day-49/) |
-| 50 |                                     | [Day 50](Day-50/) |
+| 49 |CRC                                     | [Day 49](Day-49/) |
+| 50 |Hamming code generation              | [Day 50](Day-50/) |
 
 
 ## Resources
