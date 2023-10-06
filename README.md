@@ -77,7 +77,7 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 45 |Sequence detector using FSM          | [Day 45](Day-45/) |
 | 46 |                                     | [Day 46](Day-46/) |
 | 47 |                                     | [Day 47](Day-47/) |
-| 48 |1x3 Router Implementation            | [Day 48](Day-48/) |
+| 48 |                                     | [Day 48](Day-48/) |
 | 49 |Cyclic redundancy code               | [Day 49](Day-49/) |
 | 50 |Hamming code generation              | [Day 50](Day-50/) |
 
