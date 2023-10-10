@@ -1,4 +1,4 @@
-## In this Verilog code:
+## Enoder 
 
 - `data_in` is the 4-bit input data to be encoded.
 - `crc_out` is the 7-bit CRC-encoded output.
@@ -9,7 +9,7 @@ The `always` block describes the behavior of the CRC encoder. It performs the XO
 
 Make sure to include proper clock (`clk`) and reset (`reset`) signals in your overall Verilog design and connect them to this module as needed. Additionally, ensure that you choose the appropriate polynomial for your CRC encoding requirements. The polynomial used in this example (x^3 + x^2 + 1) is just one possibility, and you may need to change it to match your specific application.
 
-## In this Verilog code:
+## Decoder
 
 - `received_data` is the 7-bit received data, which includes the 4-bit data and the 3-bit CRC.
 - `valid` is an output signal that indicates whether the received data is valid (CRC check passed).
