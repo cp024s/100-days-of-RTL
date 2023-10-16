@@ -75,7 +75,7 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 43 |ROM design                           | [Day 43](Day-43/) |
 | 44 |Fibonacci Generator                  | [Day 44](Day-44/) |
 | 45 |Sequence detector using FSM          | [Day 45](Day-45/) |
-| 46 |                                     | [Day 46](Day-46/) |
+| 46 |Ceaser Cipher method                 | [Day 46](Day-46/) |
 | 47 |                                     | [Day 47](Day-47/) |
 | 48 |                                     | [Day 48](Day-48/) |
 | 49 |Cyclic redundancy code               | [Day 49](Day-49/) |
