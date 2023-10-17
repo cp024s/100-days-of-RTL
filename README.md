@@ -81,7 +81,12 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 49 |Cyclic redundancy code               | [Day 49](Day-49/) |
 | 50 |Hamming code generation              | [Day 50](Day-50/) |
 
+## Tools used
 
+- Altera Model Sim (RTL and testbench simulation)
+- Intel Quartus (Synthesis and Simulation)
+- Xilinx Vivado ( Simulation, Testbench, Synthesis)
+  
 ## Resources
 
 During this journey, we can refer to various resources to enhance our understanding and improve our RTL design skills. Here are some recommended resources:
