@@ -76,8 +76,8 @@ Track our progress through the 100 days in this section. Below, you can find a t
 | 44 |Fibonacci Generator                  | [Day 44](Day-44/) |
 | 45 |Sequence detector using FSM          | [Day 45](Day-45/) |
 | 46 |Ceaser Cipher method                 | [Day 46](Day-46/) |
-| 47 |                                     | [Day 47](Day-47/) |
-| 48 |                                     | [Day 48](Day-48/) |
+| 47 |Vending Machine                      | [Day 47](Day-47/) |
+| 48 |Moore Model                          | [Day 48](Day-48/) |
 | 49 |Cyclic redundancy code               | [Day 49](Day-49/) |
 | 50 |Hamming code generation              | [Day 50](Day-50/) |
 
