@@ -1,39 +1,4 @@
-N bit BCD adder
-Carry skip adder
-carry select adder
-Even_odd_BCD_counter
----------------------------------------------//
-SPI interface
-I2C interface
-UART interface
-ALU implementation
----------------------------------------------//
-Day:45_"15_15Rom"
-Day:46_"Asynchronous_Rom"
-Day:47_"Rom_Using_Case"
-Day:48_"Rom_Alu_Decoder"
-Day:49_"Synchronous_Ram"
-Day:50_"16_16Ram"
-Day:51_"Asynchronous_Ram"
-Day:52_"Ram_8191k"
-Day:53_"Parameterised_Ram"
-Day:54_"Pipeline_shift"
-Day:55_"Delays"
-Day:56_"Clk_phase"
---------------------------------------------//
-Day:61_"Parameterised_Cube"
-Day:62_"Password(Digital Safe locker)"
-Day:63_"Prime_Number"
-Day:64_"Elevator"
-Day:65_"Vending_Machine"
-Day:66_"Rail_Track"
-Day:67_"Running_Led"
-Day:68_"Palindrome_of_a_number"
-Day:69_"Data_Encryption"
-Day:70_"Data_Decryption"   
-
-
-------------------SV--------------------------//
+//------------------------- SV ------------------------------------
 Day:71_"Randomization"
 Day:72_"Pre - Post Randomization"
 Day:73_"Inline Constraints"
@@ -49,9 +14,49 @@ Day:82_"Package in SV"
 Day:83_"Semaphore"
 Day:84_"Functional Coverage | Implicit bin"
 Day:85_"Functional Coverage | Explicit bin"
+//-----------------------------------------------------------------
+Day 41 : TB to print " Hello World " in SV
+Day 42 : TB to verify Logic datatype in SV
+Day 43 : TB to verify Unpacked Struct datatype in SV
+Day 44 : TB to verify Packed Struct datatype in SV
+Day 45 : TB to verify Array types in SV
+Day 46 : TB to verify Functions in SV
+Day 47 : TB to verify Tasks in SV
+Day 48 : TB Interface to verify ALU
+Day 49 : TB to verify Object Assignment copy and Shallow copy
+Day 50 : TB to verify Deep copy
+Day 51 : TB to verify Inheritance
+Day 52 : TB to verify Polymorphism
+Day 53 : TB to verify Static function and Function Static methods
+Day 54 : TB to verify Parameterized Class
+Day 55 : TB to verify Randomization
+Day 56 : TB to verify Clocking Blocks(Adder circuit)
+Day 57 : TB to verify Threads[fork-join_none]
+Day 58 : TB to verify Threads[fork-join]
+Day 59 : TB to verify Threads[fork-join_any]
+Day 60 : TB to verify Events
+Day 61 : TB to verify Mailbox(Example-1)
+Day 62 : TB for sending transaction data using Mailbox(Example-2)
+Day 63 : TB to verify Parameterized Mailbox
+Day 64 : TB to verify Semaphore
+Day 65 : TB to verify wait-fork
+Day 66 : TB to verify Automatic Variables
+Day 67 : TB to verify Half Subtractor
+Day 68 : TB to verify Full Subtractor
+Day 69 : TB to verify Full Adder using Multiplexer
+Day 70 : TB to verify SystemVerilog Packages
+Day 71 : TB to verify Demultiplexer in SV
+Day 72 : TB to verify Callback mechanism in SV
+Day 73 : TB to verify Transmission Gate
+Day 74 : TB to verify Seven Segment Decoder
+Day 75 : TB to verify Parity Generator
+Day 76 : TB to verify Inline Constraints
+Day 77 : TB to verify Soft Constraint
+Day 78 : TB Constraint to generate a pattern 01112131415161718191
+Day 79 : TB Constraint to generate a dynamic array with random but unique values without using sv unique constraint
+Day 80 : TB to count number of ones in an array
 
-
---------------------UVM------------------------//
+//-----------------------------------------------------------------
 Day:86_"UVM_MACROS"
 Day:87_"Working with Verbosity level and ID"
 Day:88_"UVM_FIELD_MACROS_int"
@@ -65,19 +70,10 @@ Day:95_"UVM_COMPONENT_Build_and_end_of_elaboration_phase"
 Day:96_"SV_TB_DFF"
 Day:97_"SV_TB_FIFO"
 
---------------------------------------------//
+//-----------------------------------------------------------------
 Day:98_"UVM_TB_ADDER_Combi"
 Day:99_"UVM_TB_ADDER_Sequi"
 Day:100_"UVM_APB_TB"
 
---------------------------------------------//
-Protocol Implementations :
-
-AXI
-AHB
-SPI
-UART
-I2C
-
-
-https://opencores.org/
+//-----------------------------------------------------------------
+opencores.org
