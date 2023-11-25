@@ -28,16 +28,16 @@ Track our progress through the 100 days in this section. Below, you can find a t
 
 ### Verilog Implementations ---------------------------- System Verilog Implementations
 
-|Day | Design Description                  |   Link            |  ---  |Day | Design Description                     | Link              |
-|----|-------------------------------------|-------------------|-------|----|----------------------------------------|-------------------|
-| 1  |Half Adder                           | [Day 1](Day-1/)   |       | 51 |  TB to print "Hello World"             | [Day 51](Day-51/) |
-| 2  |Full Adder                           | [Day 2](Day-2/)   |       | 52 |  TB to verify logic datatypes          |      |
-| 3  |Half Subtractor                      | [Day 3](Day-3/)   |       | 53 |  TB to verify unpacked Struct dataType |      |
-| 4  |3 bit ALU                            | [Day 4](Day-4/)   |       | 54 |  TB to verify packed Struct dataType   |      |
-| 5  |Binary to Gray converter             | [Day 5](Day-5/)   |       | 55 |  TB to verify Array types in SV        |      |
-| 6  |Multiplier                           | [Day 6](Day-6/)   |       | 56 |  TB to verify functions in SV          |      |
-| 7  |BCD to Excess 3                      | [Day 7](Day-7/)   |       | 57 |  TB interface to verify ALU            |      |
-| 8  |MUX Implementations                  | [Day 8](Day-8/)   |       | 58 |                                        |      |
+|Day | Design Description                  |   Link            |  ---  |Day | Design Description                     | Link                  |
+|----|-------------------------------------|-------------------|-------|----|----------------------------------------|-----------------------|
+| 1  |Half Adder                           | [Day 1](Day-1/)   |       | 51 |  TB to print "Hello World"             | [Day 51](Day-51/)     |
+| 2  |Full Adder                           | [Day 2](Day-2/)   |       | 52 |  TB to verify logic datatypes          | [Day 52](Day-52/)     |
+| 3  |Half Subtractor                      | [Day 3](Day-3/)   |       | 53 |  TB to verify unpacked Struct dataType | [Day 53](Day-53/)     |
+| 4  |3 bit ALU                            | [Day 4](Day-4/)   |       | 54 |  TB to verify packed Struct dataType   | [Day 54](Day-54/)     |
+| 5  |Binary to Gray converter             | [Day 5](Day-5/)   |       | 55 |  TB to verify Array types in SV        | [Day 55](Day-55/)     |
+| 6  |Multiplier                           | [Day 6](Day-6/)   |       | 56 |  TB to verify functions in SV          | [Day 56](Day-56/)     |
+| 7  |BCD to Excess 3                      | [Day 7](Day-7/)   |       | 57 |  TB interface to verify ALU            | [Day 57](Day-57/)     |
+| 8  |MUX Implementations                  | [Day 8](Day-8/)   |       | 58 |                                        | [Day 58](Day-58/)     |
 | 9  |DEMUX Implementations                | [Day 9](Day-9/)   |       | 59 |                                        |      |
 | 10 |Carry LookAhead Adder                | [Day 10](Day-10/) |       | 60 |                                        |      |
 | 11 |D- Flip Flop                         | [Day 11](Day-11/) |       | 61 |                                        |      |
