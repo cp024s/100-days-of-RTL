@@ -107,5 +107,3 @@ This project is licensed under the `BSD 3-Clause License` - see the [LICENSE](LI
 
 - Users are free to use, modify, and distribute this software in accordance with the terms of the license.
 - Contributors must agree to the project's Contributor License Agreement (CLA) before submitting pull requests. Please refer to the [Contributing user agreement](CONTRIBUTING.md) file for more details.
-
-- 
